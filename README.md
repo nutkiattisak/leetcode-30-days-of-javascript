@@ -23,7 +23,7 @@
 | Cache With Time Limit                        |           |
 | Debounce                                     |           |
 | Execute Asynchronous Functions in Parallel   |           |
-| Is Object Empty                              |           |
+| Is Object Empty                              |    ✅     |
 | Chunk Array                                  |           |
 | Array Prototype Last                         |           |
 | Group By                                     |           |
