@@ -6,7 +6,7 @@
 | :------------------------------------------- | :-------: |
 | Create Hello World Function                  |    ✅     |
 | Counter                                      |           |
-| To Be Or Not To Be                           |           |
+| To Be Or Not To Be                           |    ✅     |
 | Counter II                                   |           |
 | Apply Transform Over Each Element in Array   |    ✅     |
 | Filter Elements from Array                   |    ✅     |
@@ -23,7 +23,7 @@
 | Cache With Time Limit                        |           |
 | Debounce                                     |           |
 | Execute Asynchronous Functions in Parallel   |           |
-| Is Object Empty                              |    ✅     |
+| Is Object Empty                              |           |
 | Chunk Array                                  |           |
 | Array Prototype Last                         |           |
 | Group By                                     |           |
