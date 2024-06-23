@@ -7,7 +7,7 @@
 | Create Hello World Function                  |    ✅     |
 | Counter                                      |    ✅     |
 | To Be Or Not To Be                           |    ✅     |
-| Counter II                                   |           |
+| Counter II                                   |    ✅     |
 | Apply Transform Over Each Element in Array   |    ✅     |
 | Filter Elements from Array                   |    ✅     |
 | Array Reduce Transformation                  |    ✅     |
