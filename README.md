@@ -5,7 +5,7 @@
 | Title                                        | Completed |
 | :------------------------------------------- | :-------: |
 | Create Hello World Function                  |    ✅     |
-| Counter                                      |           |
+| Counter                                      |    ✅     |
 | To Be Or Not To Be                           |    ✅     |
 | Counter II                                   |           |
 | Apply Transform Over Each Element in Array   |    ✅     |
