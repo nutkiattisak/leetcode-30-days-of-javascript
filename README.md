@@ -13,10 +13,10 @@
 | Array Reduce Transformation                  |    ✅     |
 | Function Composition                         |    ✅     |
 | Return Length of Arguments Passed            |    ✅     |
-| Allow One Function Call                      |           |
+| Allow One Function Call                      |    ✅     |
 | Memoize                                      |           |
 | Add Two Promises                             |           |
-| Sleep                                        |           |
+| Sleep                                        |    ✅     |
 | Timeout Cancellation                         |           |
 | Interval Cancellation                        |           |
 | Promise Time Limit                           |           |
