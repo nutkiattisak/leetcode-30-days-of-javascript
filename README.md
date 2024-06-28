@@ -15,7 +15,7 @@
 | Return Length of Arguments Passed            |    ✅     |
 | Allow One Function Call                      |    ✅     |
 | Memoize                                      |           |
-| Add Two Promises                             |           |
+| Add Two Promises                             |    ✅     |
 | Sleep                                        |    ✅     |
 | Timeout Cancellation                         |           |
 | Interval Cancellation                        |           |
