@@ -17,7 +17,7 @@
 | Memoize                                      |           |
 | Add Two Promises                             |    ✅     |
 | Sleep                                        |    ✅     |
-| Timeout Cancellation                         |           |
+| Timeout Cancellation                         |    ✅     |
 | Interval Cancellation                        |           |
 | Promise Time Limit                           |           |
 | Cache With Time Limit                        |           |
