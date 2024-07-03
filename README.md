@@ -24,7 +24,7 @@
 | Debounce                                     |           |
 | Execute Asynchronous Functions in Parallel   |           |
 | Is Object Empty                              |    ✅     |
-| Chunk Array                                  |           |
+| Chunk Array                                  |    ✅     |
 | Array Prototype Last                         |           |
 | Group By                                     |           |
 | Sort By                                      |           |
