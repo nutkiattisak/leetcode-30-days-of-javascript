@@ -27,10 +27,10 @@
 | Chunk Array                                  |    ✅     |
 | Array Prototype Last                         |    ✅     |
 | Group By                                     |           |
-| Sort By                                      |           |
+| Sort By                                      |    ✅     |
 | Join Two Arrays by ID                        |           |
 | Flatten Deeply Nested Array                  |           |
 | Compact Object                               |           |
 | Event Emitter                                |           |
-| Array Wrapper                                |           |
+| Array Wrapper                                |    ✅     |
 | Calculator with Method Chaining              |           |
