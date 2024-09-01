@@ -33,4 +33,4 @@
 | Compact Object                               |           |
 | Event Emitter                                |           |
 | Array Wrapper                                |    ✅     |
-| Calculator with Method Chaining              |           |
+| Calculator with Method Chaining              |    ✅     |
